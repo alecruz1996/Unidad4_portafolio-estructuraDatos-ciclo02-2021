@@ -1,0 +1,14 @@
+Ciudad de Panama,Bogota
+San Salvador,Miami
+Miami,Paris
+Paris,Hong Kong
+San Salvador,Bogota
+Bogota,Paris
+Miami,San Francisco
+San Salvador,San Jose
+San Salvador,Madrid
+Madrid,Guatemala
+Guatemala,San Salvador
+San Salvador,Ciudad de Panama
+Bogota,Buenos Aires
+San Salvador,Tegucigalpa
